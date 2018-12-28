@@ -1,0 +1,90 @@
+{
+    "statusCode": "200",
+    "statusResponse": "Ok",
+    "message": "All unicorns",
+    "unicorns": [
+        {
+            "visitor": "Sandrine Kanali",
+            "location": "trail",
+            "title": "Unicorn 9",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn9.jpeg?alt=media&token=ae95b3a0-cdc2-4357-b336-9bc0b73daa2d"
+        },
+        {
+
+            "visitor": "Josephine",
+            "location": "pasture",
+            "title": "Unicorn 2",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn2.jpeg?alt=media&token=a6090d89-57a8-433d-96e1-f9c37e3606d7"
+        },
+        {
+
+            "visitor": "Souwla",
+            "location": "pasture",
+            "title": "Unicorn 7",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn7.jpeg?alt=media&token=08df86b2-146b-4fd5-9e8d-87d59af6392c"
+        },
+        {
+
+            "visitor": "Lebenean",
+            "location": "trail",
+            "title": "Unicorn 8",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn8.jpeg?alt=media&token=d091ed01-bd16-40a5-a3dc-046e20e4b42e"
+        },
+        {
+
+            "visitor": "Emmanuel Bamba",
+            "location": "trail",
+            "title": "Unicorn 10",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn10.jpeg?alt=media&token=0d1caf36-f241-41fb-b8d3-f3883892da46"
+        },
+        {
+
+            "visitor": "Emmanuel",
+            "location": "barn",
+            "title": "Unicorn 6",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn6.jpeg?alt=media&token=4b245802-d496-4132-8caf-cbc923374fee"
+        },
+        {
+
+            "visitor": "Ninahara",
+            "location": "pasture",
+            "title": "Unicorn 11",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn11.jpeg?alt=media&token=c485a00b-b7e6-4893-bcbe-e1e03173ff3c"
+        },
+        {
+
+            "visitor": "Sandrine",
+            "location": "pasture",
+            "title": "Unicorn 3",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn3.jpeg?alt=media&token=27766761-f8f1-4828-a24c-a1031ba73d05"
+        },
+        {
+
+            "visitor": "Andre",
+            "location": "barn",
+            "title": "Unicorn 5",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn5.jpeg?alt=media&token=85e1ec27-a075-4ba6-8dfa-879ac8e1ac41"
+        },
+        {
+
+            "visitor": "Gamamou",
+            "location": "barn",
+            "title": "Unicorn 12",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn12.jpeg?alt=media&token=a49ec2aa-600b-451b-825d-ba334ddd1679"
+        },
+        {
+
+            "visitor": "Emmanuel",
+            "location": "trail",
+            "title": "Unicorn 1",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn1.jpeg?alt=media&token=abc6d8cb-8dc0-4ad4-9878-ab3e6e835f9e"
+        },
+        {
+
+            "visitor": "Grace",
+            "location": "trail",
+            "title": "Unicorn 4",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/eb-unicorn.appspot.com/o/assets%2Funipictures%2Funicorn4.jpeg?alt=media&token=faf2643b-0c36-4357-a79d-9e2425c912e3"
+        }
+    ]
+}
