@@ -3,7 +3,6 @@ import { Switch, Route } from "react-router-dom";
 import * as RESTAPI from "./RESTAPI";
 import Home from "./pages/Home";
 import PageNotFound from './pages/404'
-
 import "./App.scss";
 
 class UnicornsApp extends Component {

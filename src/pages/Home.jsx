@@ -1,15 +1,19 @@
 import React, { Component } from "react";
 import UnicornLocation from "../components/UnicornLocation";
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 class Home extends Component {
   render() {
     return (
+      <div className="main">
+
       <div className="list-unicorns">
         <div className="list-unicorns-title">
           <h1>Unicorn Ranch</h1>
+          <Header />
         </div>
         <div className="list-unicorns-content">
-          <div>
             <UnicornLocation
               title="Barn"
               placeUnicorns={this.props.placeUnicorns}
@@ -29,9 +33,10 @@ class Home extends Component {
               placeUnicorns={this.props.placeUnicorns}
               unicorns={this.props.unicorns.filter(b => b.location === "trail")}
             />
-          </div>
         </div>
       </div>
+      <Footer />
+      </div> // main
     );
   }
 }

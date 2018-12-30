@@ -30,7 +30,7 @@ class Unicorn extends Component {
           </div>
           <div className="unicorn-title">{this.props.unicorn.title}</div>
           {/* Handle the case when there are no visitor found */}
-          <div className="unicorn-visitor">{this.props.unicorn.visitor ? this.props.unicorn.visitor : "No visitor found"}</div>
+          <div className="unicorn-visitor">Visitor: {this.props.unicorn.visitor ? this.props.unicorn.visitor : "No visitor found"}</div>
         </div>
       </li>
     );

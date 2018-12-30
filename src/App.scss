@@ -46,7 +46,6 @@ body, .app {
 /* main page */
 
 .list-unicorns-title {
-  padding: 10px 0;
   background: rgb(95, 9, 112);
   text-align: center;
   text-transform: uppercase;
@@ -238,4 +237,23 @@ body, .app {
 
 .container-not-found a {
   font-weight: 700;
+}
+.footer-content, .header-content{
+  list-style: none;
+  background-color: rgb(95, 9, 112);
+  text-align: right;
+  li {
+    display: inline-block;
+    padding: 10px;
+    a {
+      color: #ffffff;
+    }
+  }
+}
+.list-unicorns-title{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  h1 {
+    padding: 10px;
+  }
 }
