@@ -2,9 +2,14 @@ import React, { Component } from "react";
 import { Switch, Route } from "react-router-dom";
 import * as RESTAPI from "./RESTAPI";
 import Home from "./pages/Home";
+// Import fontawesome library
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fab } from '@fortawesome/free-brands-svg-icons';
 import PageNotFound from './pages/404'
 import "./App.scss";
 
+// Add fontawesome to the library for use across the app
+library.add(fab);
 class UnicornsApp extends Component {
   state = {
     unicorns: []
