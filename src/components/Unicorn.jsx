@@ -24,7 +24,7 @@ class Unicorn extends Component {
                 <option value="barn">Barn</option>
                 <option value="pasture">Pasture</option>
                 <option value="trail">Trail</option>
-                <option value="none">None</option>
+                {/* <option value="none">None</option> */}
               </select>
             </div>
           </div>
