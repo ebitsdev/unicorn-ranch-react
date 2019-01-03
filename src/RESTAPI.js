@@ -1,5 +1,5 @@
 
-const api = "https://eb-apis.firebaseapp.com/api"
+const api = "https://eb-apis.firebaseapp.com/api/v1"
 
 // Generate a unique token for storing your unicorn-location data on the backend server.
 let token = localStorage.token
